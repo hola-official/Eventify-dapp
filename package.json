@@ -31,6 +31,7 @@
   "dependencies": {
     "@celo-tools/celo-ethers-wrapper": "2.1.0",
     "@headlessui/react": "1.7.17",
+    "@metamask/safe-event-emitter": "3.1.1",
     "@nomiclabs/hardhat-ethers": "2.2.3",
     "@rainbow-me/rainbowkit": "^1.0.10",
     "@rainbow-me/rainbowkit-siwe-next-auth": "^0.3.0",
